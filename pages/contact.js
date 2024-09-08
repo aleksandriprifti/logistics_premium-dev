@@ -246,7 +246,7 @@ export default function Contact() {
                       alt="transp"
                     />
                     <h6 className="color-brand-2 mb-15">
-                      Transp Shipping Co. USA
+                      Transp Shipping Co. USA Test
                     </h6>
                     <p className="font-xs color-grey-900 mb-10">
                       <strong className="color-brand-2">Address:</strong>123
